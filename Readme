@@ -4,3 +4,15 @@ Exploratory Data Analysis - Project: Airbnb NYC 2019
 Screenshots
 Check out the screenshots of my Power BI dashboard - [AIRBNB DASHBOARD PDF](https://drive.google.com/file/d/11W77cZB86zTcM8rehG8XhLC7pWXvLmyM/view?usp=drive_link)
 
+
+Welcome to my exploratory data analysis (EDA) project on the Airbnb NYC 2019 dataset! This project is part of the Data Science course which was completed with the Entri Elevate program.
+
+About the Project
+In this project, I've performed a comprehensive analysis of the Airbnb listings in New York City for the year 2019. I've used Python and Jupyter Notebook for data analysis and visualization, and I've also created an interactive Power BI dashboard to showcase the key insights.
+
+Key Highlights:
+Explored the distribution of listings across different neighborhoods and boroughs.
+Analyzed the pricing trends and identified factors affecting the prices.
+Examined the room type distribution and its implications.
+Investigated the impact on housing availability in specific neighborhoods.
+Visualized data using various charts, heatmaps, and interactive tools.
